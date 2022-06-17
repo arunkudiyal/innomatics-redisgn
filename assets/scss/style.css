@@ -3359,7 +3359,7 @@ textarea:-ms-input-placeholder {
 
 @media only screen and (max-width:767px) {
     .header-wrap .header-bottom .logo img {
-        max-width: 120px
+        max-width: 250px;
     }
     .mobile-top-bar i {
         margin-right: 10px
@@ -10081,7 +10081,7 @@ form.checkout textarea {
 }
 
 .footer-wrap .footer-top .footer-widget .footer-logo img {
-    max-width: 150px
+    max-width: 250px
 }
 
 .footer-wrap .footer-top .footer-widget .footer-widget-title {
