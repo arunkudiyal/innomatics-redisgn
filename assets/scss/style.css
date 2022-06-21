@@ -3611,7 +3611,8 @@ textarea:-ms-input-placeholder {
     position: relative;
     height: 100%;
     padding: 300px 0 250px;
-    background-size: cover;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
     overflow: hidden;
     margin: 127px 0 0
 }
