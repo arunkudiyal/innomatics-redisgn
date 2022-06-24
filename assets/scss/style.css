@@ -3600,6 +3600,7 @@ textarea:-ms-input-placeholder {
 }
 
 .br-bg-5 {
+    /* background-image: url(../img/breadcrumb/breadcrumb-5.jpg) */
     background-image: url(../img/breadcrumb/breadcrumb-5.jpg)
 }
 
@@ -3607,11 +3608,15 @@ textarea:-ms-input-placeholder {
     background-image: url(../img/breadcrumb/breadcrumb-6.html)
 }
 
+.br-bg-fsd {
+    background-image: url('../img/course/fsd_creative_1.jpg');
+}
+
 .breadcrumb-wrap {
     position: relative;
     height: 100%;
     padding: 300px 0 250px;
-    /* background-size: cover; */
+    background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
     margin: 127px 0 0
