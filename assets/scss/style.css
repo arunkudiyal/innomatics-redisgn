@@ -3612,6 +3612,10 @@ textarea:-ms-input-placeholder {
     background-image: url('../img/course/fsd_creative_1.jpg');
 }
 
+.br-bg-preplacement {
+    background-image: url('../img/course/preplacement_1.png');
+}
+
 .breadcrumb-wrap {
     position: relative;
     height: 100%;
